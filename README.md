@@ -20,7 +20,7 @@ PlatformCachePartitionUtility is an Apex utility designed to optimize Salesforce
 
 To use the PlatformCachePartitionUtility, follow these steps:
 
-  🛠️ Clone the Repository: git clone https://github.com/SfdcChampsa/Platform-Cache-Utility.git
+  🛠️ Clone the Repository: git clone https://github.com/SanaIrshadTech/Platform-Cache-Utility
   
   🚀 Deploy to Salesforce: Deploy the PlatformCachePartitionUtility class to your Salesforce organization using your preferred method (e.g., Salesforce CLI, or directly in Salesforce Developer Console).
 
